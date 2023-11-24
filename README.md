@@ -30,7 +30,7 @@ Follow these steps to get started with the react-vite-ui template:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dan5py/react-vite-ui.git
+   git clone https://github.com/thangdevalone/shadcn-ui-react-ts-template.git
    ```
 
 2. Navigate to the project directory:
@@ -42,28 +42,28 @@ Follow these steps to get started with the react-vite-ui template:
 3. Install the dependencies:
 
    ```bash
-   pnpm install
+   yarn
    ```
 
 4. Start the development server:
 
    ```bash
-   pnpm dev
+   yarn dev
    ```
 
 ## 📜 Available Scripts
 
-- pnpm dev - Starts the development server.
-- pnpm build - Builds the production-ready code.
-- pnpm lint - Runs ESLint to analyze and lint the code.
-- pnpm preview - Starts the Vite development server in preview mode.
+- yarn dev - Starts the development server.
+- yarn build - Builds the production-ready code.
+- yarn lint - Runs ESLint to analyze and lint the code.
+- yarn preview - Starts the Vite development server in preview mode.
 
 ## 📂 Project Structure
 
 The project structure follows a standard React application layout:
 
 ```python
-react-vite-ui/
+shadcn-ui-react-ts-template/
   ├── node_modules/      # Project dependencies
   ├── public/            # Public assets
   ├── src/               # Application source code
